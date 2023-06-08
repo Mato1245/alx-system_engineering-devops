@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u-x README.md
+telnet towel.blinkenlights.nl
